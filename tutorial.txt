@@ -1,0 +1,24 @@
+What is Git?
+-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+To dowload Git here is official site 
+https://git-scm.com
+
+Once Successfully Downloaded here is some commands to check whether its there for you or not 
+
+$ git --version
+if as result you get version name than you will ready to go.
+
+To create any project here are the steps
+
+1. First we have to create project directory. 
+2. We need to go inside it and from command prompt we have to first initialize it with git. Follwing command 
+$ git init
+it will create one hidden folder with name "git". this is for tracking the records(logs) of your activities
+3. After you done with your project. Now it's time to commit the code. Here is the command
+$ git add .   or git add ["file name"] (. is for add all files and folder)
+4.After adding now it's time to commit (Save) the code in your local repository. Here is the command
+$ git commit -m "[Your message]"    (-m is madentory)
+5. You can check your status of git repository by using following command
+$ git status
+
