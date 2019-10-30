@@ -1,4 +1,4 @@
-Project name : Tutorial for Git and Git Hub
-Auther : Onex Softech Pvt Ltd
-Contributor: Ganesh C
+Project name : Tutorial for Git and Git Hub<br>
+Auther : Onex Softech Pvt Ltd<br>
+Contributor: Ganesh C<br>
 
