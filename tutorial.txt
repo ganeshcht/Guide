@@ -2,7 +2,9 @@
 Onex Softech
 
 
-
+*************************************************************************************
+***********************************Git********************************************
+*************************************************************************************
 
 What is Git?
 -Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
@@ -34,4 +36,31 @@ $ git commit -m "[Your message]"    (-m is madentory)
 
 5. You can check your status of git repository by using following command
 $ git status
+
+*************************************************************************************
+***********************************GitHub********************************************
+*************************************************************************************
+
+What is Github ?
+-GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+To use github you. No coding necessary.
+you need a GitHub.com account and Internet access. 
+You don’t need to know how to code, use the command line, or install Git (the version control software GitHub is built on).
+
+*****Repository*****
+A repository is usually used to organize a single project. 
+Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs.
+
+
+*****Branch********
+Branching is the way to work on different versions of a repository at one time.
+
+By default your repository has one branch named main which is considered to be the definitive branch. 
+We use branches to experiment and make edits before committing them to main.
+
+
+
+
+
 
